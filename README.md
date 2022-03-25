@@ -5,7 +5,7 @@
 - 📫 How to reach me on linkedIn https://www.linkedin.com/in/muhammad-rafay-1671b5201/
 
 <span>
-  <p><img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muh-rafay&show_icons=true&locale=en&layout=compact" alt="muh-rafay" /></p>
+
 <p><img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=muh-rafay&" alt="muh-rafay" /></p>
   
 
